@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda
+*.conda
+
+# Data
+data/
+*.csv
+*.pt
+*.pth
+*.ckpt
+
+# WSL / OS junk
+.DS_Store
+Thumbs.db
+
+checkpoints_gcn/
+checkpoints_mamba/
+processed/
+results_gcn/
+results_mamba/
+diagnose.ipynb
+st-gcn-fyp.ipynb
+test.txt
+train.txt
+val.txt
