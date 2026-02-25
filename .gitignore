@@ -24,6 +24,8 @@ checkpoints_mamba/
 processed/
 results_gcn/
 results_mamba/
+result_mamba_og/
+gcn-mamba.ipynb
 diagnose.ipynb
 st-gcn-fyp.ipynb
 test.txt
