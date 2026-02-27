@@ -2,8 +2,8 @@
   "per_class": {
     "acara": {
       "precision": 1.0,
-      "recall": 0.8571428571428571,
-      "f1_score": 0.9230769230769231,
+      "recall": 1.0,
+      "f1_score": 1.0,
       "support": 7
     },
     "ada": {
@@ -32,8 +32,8 @@
     },
     "apa": {
       "precision": 1.0,
-      "recall": 0.5714285714285714,
-      "f1_score": 0.7272727272727273,
+      "recall": 1.0,
+      "f1_score": 1.0,
       "support": 7
     },
     "badan": {
@@ -43,9 +43,9 @@
       "support": 7
     },
     "bandung": {
-      "precision": 0.7777777777777778,
+      "precision": 0.875,
       "recall": 1.0,
-      "f1_score": 0.875,
+      "f1_score": 0.9333333333333333,
       "support": 7
     },
     "banyak": {
@@ -55,15 +55,15 @@
       "support": 7
     },
     "bapak": {
-      "precision": 1.0,
+      "precision": 0.875,
       "recall": 1.0,
-      "f1_score": 1.0,
+      "f1_score": 0.9333333333333333,
       "support": 7
     },
     "baru": {
       "precision": 1.0,
-      "recall": 1.0,
-      "f1_score": 1.0,
+      "recall": 0.8571428571428571,
+      "f1_score": 0.9230769230769231,
       "support": 7
     },
     "bau": {
@@ -79,15 +79,15 @@
       "support": 7
     },
     "belut": {
-      "precision": 0.7,
+      "precision": 1.0,
       "recall": 1.0,
-      "f1_score": 0.8235294117647058,
+      "f1_score": 1.0,
       "support": 7
     },
     "bisa": {
-      "precision": 0.875,
+      "precision": 1.0,
       "recall": 1.0,
-      "f1_score": 0.9333333333333333,
+      "f1_score": 1.0,
       "support": 7
     },
     "buah": {
@@ -98,14 +98,14 @@
     },
     "buku": {
       "precision": 1.0,
-      "recall": 0.8571428571428571,
-      "f1_score": 0.9230769230769231,
+      "recall": 1.0,
+      "f1_score": 1.0,
       "support": 7
     },
     "cium": {
-      "precision": 1.0,
+      "precision": 0.875,
       "recall": 1.0,
-      "f1_score": 1.0,
+      "f1_score": 0.9333333333333333,
       "support": 7
     },
     "cubit": {
@@ -115,9 +115,9 @@
       "support": 7
     },
     "dan": {
-      "precision": 0.7777777777777778,
+      "precision": 1.0,
       "recall": 1.0,
-      "f1_score": 0.875,
+      "f1_score": 1.0,
       "support": 7
     },
     "darah": {
@@ -134,8 +134,8 @@
     },
     "deg-degan": {
       "precision": 1.0,
-      "recall": 0.8571428571428571,
-      "f1_score": 0.9230769230769231,
+      "recall": 1.0,
+      "f1_score": 1.0,
       "support": 7
     },
     "dengan": {
@@ -151,15 +151,15 @@
       "support": 7
     },
     "dorong": {
-      "precision": 0.875,
-      "recall": 1.0,
-      "f1_score": 0.9333333333333333,
+      "precision": 0.8571428571428571,
+      "recall": 0.8571428571428571,
+      "f1_score": 0.8571428571428571,
       "support": 7
     },
     "ejek": {
-      "precision": 1.0,
-      "recall": 0.8571428571428571,
-      "f1_score": 0.9230769230769231,
+      "precision": 0.875,
+      "recall": 1.0,
+      "f1_score": 0.9333333333333333,
       "support": 7
     },
     "film": {
@@ -181,9 +181,9 @@
       "support": 7
     },
     "haha": {
-      "precision": 0.8571428571428571,
-      "recall": 0.8571428571428571,
-      "f1_score": 0.8571428571428571,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
       "support": 7
     },
     "hilang": {
@@ -193,9 +193,9 @@
       "support": 7
     },
     "hitam": {
-      "precision": 1.0,
+      "precision": 0.875,
       "recall": 1.0,
-      "f1_score": 1.0,
+      "f1_score": 0.9333333333333333,
       "support": 7
     },
     "horor": {
@@ -211,21 +211,21 @@
       "support": 7
     },
     "ibu": {
-      "precision": 1.0,
+      "precision": 0.875,
       "recall": 1.0,
-      "f1_score": 1.0,
+      "f1_score": 0.9333333333333333,
       "support": 7
     },
     "ikan": {
-      "precision": 1.0,
+      "precision": 0.875,
       "recall": 1.0,
-      "f1_score": 1.0,
+      "f1_score": 0.9333333333333333,
       "support": 7
     },
     "instagram": {
-      "precision": 1.0,
+      "precision": 0.8571428571428571,
       "recall": 0.8571428571428571,
-      "f1_score": 0.9230769230769231,
+      "f1_score": 0.8571428571428571,
       "support": 7
     },
     "jadwal": {
@@ -236,14 +236,14 @@
     },
     "jalan": {
       "precision": 1.0,
-      "recall": 1.0,
-      "f1_score": 1.0,
+      "recall": 0.8571428571428571,
+      "f1_score": 0.9230769230769231,
       "support": 7
     },
     "jalan-jalan": {
-      "precision": 0.875,
+      "precision": 1.0,
       "recall": 1.0,
-      "f1_score": 0.9333333333333333,
+      "f1_score": 1.0,
       "support": 7
     },
     "jam": {
@@ -254,14 +254,14 @@
     },
     "jatuh": {
       "precision": 1.0,
-      "recall": 1.0,
-      "f1_score": 1.0,
+      "recall": 0.8571428571428571,
+      "f1_score": 0.9230769230769231,
       "support": 7
     },
     "jelek": {
       "precision": 1.0,
-      "recall": 1.0,
-      "f1_score": 1.0,
+      "recall": 0.8571428571428571,
+      "f1_score": 0.9230769230769231,
       "support": 7
     },
     "juara": {
@@ -271,9 +271,9 @@
       "support": 7
     },
     "kakak": {
-      "precision": 0.7777777777777778,
+      "precision": 1.0,
       "recall": 1.0,
-      "f1_score": 0.875,
+      "f1_score": 1.0,
       "support": 7
     },
     "kalah": {
@@ -290,8 +290,8 @@
     },
     "kami": {
       "precision": 1.0,
-      "recall": 0.7142857142857143,
-      "f1_score": 0.8333333333333334,
+      "recall": 0.8571428571428571,
+      "f1_score": 0.9230769230769231,
       "support": 7
     },
     "kamu": {
@@ -313,15 +313,15 @@
       "support": 7
     },
     "kemarin": {
-      "precision": 0.875,
+      "precision": 1.0,
       "recall": 1.0,
-      "f1_score": 0.9333333333333333,
+      "f1_score": 1.0,
       "support": 7
     },
     "kenal": {
       "precision": 1.0,
-      "recall": 0.8571428571428571,
-      "f1_score": 0.9230769230769231,
+      "recall": 1.0,
+      "f1_score": 1.0,
       "support": 7
     },
     "kerja": {
@@ -331,21 +331,21 @@
       "support": 7
     },
     "kotor": {
+      "precision": 1.0,
+      "recall": 0.8571428571428571,
+      "f1_score": 0.9230769230769231,
+      "support": 7
+    },
+    "kue": {
       "precision": 0.875,
       "recall": 1.0,
       "f1_score": 0.9333333333333333,
       "support": 7
     },
-    "kue": {
+    "kuku": {
       "precision": 1.0,
       "recall": 1.0,
       "f1_score": 1.0,
-      "support": 7
-    },
-    "kuku": {
-      "precision": 0.6363636363636364,
-      "recall": 1.0,
-      "f1_score": 0.7777777777777778,
       "support": 7
     },
     "lahir": {
@@ -362,8 +362,8 @@
     },
     "laki-laki": {
       "precision": 1.0,
-      "recall": 1.0,
-      "f1_score": 1.0,
+      "recall": 0.8571428571428571,
+      "f1_score": 0.9230769230769231,
       "support": 7
     },
     "lambat": {
@@ -374,32 +374,32 @@
     },
     "lihat": {
       "precision": 1.0,
-      "recall": 0.7142857142857143,
-      "f1_score": 0.8333333333333334,
+      "recall": 0.8571428571428571,
+      "f1_score": 0.9230769230769231,
       "support": 7
     },
     "lomba": {
-      "precision": 0.8333333333333334,
-      "recall": 0.7142857142857143,
-      "f1_score": 0.7692307692307693,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
       "support": 7
     },
     "ludah": {
-      "precision": 0.8571428571428571,
-      "recall": 0.8571428571428571,
-      "f1_score": 0.8571428571428571,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
       "support": 7
     },
     "makan": {
-      "precision": 0.875,
-      "recall": 1.0,
-      "f1_score": 0.9333333333333333,
+      "precision": 1.0,
+      "recall": 0.8571428571428571,
+      "f1_score": 0.9230769230769231,
       "support": 7
     },
     "malu-malu": {
       "precision": 1.0,
-      "recall": 0.7142857142857143,
-      "f1_score": 0.8333333333333334,
+      "recall": 0.8571428571428571,
+      "f1_score": 0.9230769230769231,
       "support": 7
     },
     "mandi": {
@@ -415,15 +415,15 @@
       "support": 7
     },
     "masuk": {
-      "precision": 1.0,
+      "precision": 0.875,
       "recall": 1.0,
-      "f1_score": 1.0,
+      "f1_score": 0.9333333333333333,
       "support": 7
     },
     "mati": {
-      "precision": 1.0,
+      "precision": 0.875,
       "recall": 1.0,
-      "f1_score": 1.0,
+      "f1_score": 0.9333333333333333,
       "support": 7
     },
     "mereka": {
@@ -446,8 +446,8 @@
     },
     "olahraga": {
       "precision": 1.0,
-      "recall": 0.8571428571428571,
-      "f1_score": 0.9230769230769231,
+      "recall": 1.0,
+      "f1_score": 1.0,
       "support": 7
     },
     "orang": {
@@ -457,15 +457,15 @@
       "support": 7
     },
     "pada": {
-      "precision": 0.75,
+      "precision": 1.0,
       "recall": 0.8571428571428571,
-      "f1_score": 0.8,
+      "f1_score": 0.9230769230769231,
       "support": 7
     },
     "pagi": {
       "precision": 1.0,
-      "recall": 0.42857142857142855,
-      "f1_score": 0.6,
+      "recall": 0.8571428571428571,
+      "f1_score": 0.9230769230769231,
       "support": 7
     },
     "pantai": {
@@ -482,20 +482,20 @@
     },
     "pensil": {
       "precision": 1.0,
-      "recall": 0.8571428571428571,
-      "f1_score": 0.9230769230769231,
-      "support": 7
-    },
-    "petir": {
-      "precision": 1.0,
       "recall": 1.0,
       "f1_score": 1.0,
       "support": 7
     },
+    "petir": {
+      "precision": 1.0,
+      "recall": 0.8571428571428571,
+      "f1_score": 0.9230769230769231,
+      "support": 7
+    },
     "pukul": {
-      "precision": 0.7777777777777778,
+      "precision": 0.875,
       "recall": 1.0,
-      "f1_score": 0.875,
+      "f1_score": 0.9333333333333333,
       "support": 7
     },
     "pulang": {
@@ -535,9 +535,9 @@
       "support": 7
     },
     "saat": {
-      "precision": 0.875,
+      "precision": 1.0,
       "recall": 1.0,
-      "f1_score": 0.9333333333333333,
+      "f1_score": 1.0,
       "support": 7
     },
     "salah": {
@@ -553,9 +553,9 @@
       "support": 7
     },
     "sampai": {
-      "precision": 1.0,
+      "precision": 0.875,
       "recall": 1.0,
-      "f1_score": 1.0,
+      "f1_score": 0.9333333333333333,
       "support": 7
     },
     "sangat": {
@@ -571,9 +571,9 @@
       "support": 7
     },
     "saya": {
-      "precision": 0.875,
+      "precision": 1.0,
       "recall": 1.0,
-      "f1_score": 0.9333333333333333,
+      "f1_score": 1.0,
       "support": 7
     },
     "sebab": {
@@ -589,15 +589,15 @@
       "support": 7
     },
     "selamat": {
-      "precision": 0.8571428571428571,
-      "recall": 0.8571428571428571,
-      "f1_score": 0.8571428571428571,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
       "support": 7
     },
     "sempat": {
-      "precision": 0.875,
+      "precision": 1.0,
       "recall": 1.0,
-      "f1_score": 0.9333333333333333,
+      "f1_score": 1.0,
       "support": 7
     },
     "semut": {
@@ -607,21 +607,21 @@
       "support": 7
     },
     "sendiri": {
-      "precision": 1.0,
+      "precision": 0.875,
       "recall": 1.0,
-      "f1_score": 1.0,
+      "f1_score": 0.9333333333333333,
       "support": 7
     },
     "sepatu": {
-      "precision": 1.0,
+      "precision": 0.875,
       "recall": 1.0,
-      "f1_score": 1.0,
+      "f1_score": 0.9333333333333333,
       "support": 7
     },
     "sepeda": {
-      "precision": 0.8333333333333334,
-      "recall": 0.7142857142857143,
-      "f1_score": 0.7692307692307693,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
       "support": 7
     },
     "seru": {
@@ -673,9 +673,9 @@
       "support": 7
     },
     "tetap": {
-      "precision": 0.8333333333333334,
-      "recall": 0.7142857142857143,
-      "f1_score": 0.7692307692307693,
+      "precision": 1.0,
+      "recall": 0.8571428571428571,
+      "f1_score": 0.9230769230769231,
       "support": 7
     },
     "tetapi": {
@@ -697,9 +697,9 @@
       "support": 7
     },
     "tonton": {
-      "precision": 0.7777777777777778,
-      "recall": 1.0,
-      "f1_score": 0.875,
+      "precision": 0.8571428571428571,
+      "recall": 0.8571428571428571,
+      "f1_score": 0.8571428571428571,
       "support": 7
     },
     "tugas": {
@@ -716,8 +716,8 @@
     },
     "ular": {
       "precision": 1.0,
-      "recall": 0.5714285714285714,
-      "f1_score": 0.7272727272727273,
+      "recall": 1.0,
+      "f1_score": 1.0,
       "support": 7
     },
     "walau": {
@@ -728,14 +728,14 @@
     }
   },
   "macro_avg": {
-    "precision": 0.9609820161473055,
-    "recall": 0.9539551357733176,
-    "f1_score": 0.9527055602529595
+    "precision": 0.9766824085005903,
+    "recall": 0.974025974025974,
+    "f1_score": 0.9739169920988103
   },
   "weighted_avg": {
-    "precision": 0.9609820161473054,
-    "recall": 0.9539551357733176,
-    "f1_score": 0.9527055602529594
+    "precision": 0.9766824085005903,
+    "recall": 0.974025974025974,
+    "f1_score": 0.9739169920988102
   },
-  "accuracy": 0.9539551357733176
+  "accuracy": 0.974025974025974
 }
